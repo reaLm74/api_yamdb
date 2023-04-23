@@ -15,7 +15,7 @@
 
 Клонирование репозитория:
 ```sh
-git clone https://github.com/NataliaPetelina/api_yamdb
+git clone https://github.com/realm74/api_yamdb
 cd api_yamdb
 ```
 
